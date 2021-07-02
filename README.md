@@ -2,6 +2,6 @@
 Меня зовут Владимир, мне 16 лет. Занимаюсь разработкой ботов для Discord и учусь делать сайты. Если у вас есть очень заманчивое предложение для меня, то приглашаю вас перейти по моим контактам(*они внизу страницы, если вы не заметили*). 
 
 # Контакты
-* email <shandy@sda-job.ru>
+* email <shandy@shandy-dev.ru>
 * VK [@shandeika](https://vk.com/shandeika)
 * Discord сервер [Shandy`s server](https://discord.gg/2BEfEAm)
