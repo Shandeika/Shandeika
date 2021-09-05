@@ -5,3 +5,6 @@
 * email <shandy@shandy-dev.ru>
 * VK [@shandeika](https://vk.com/shandeika)
 * Discord сервер [Shandy`s server](https://discord.gg/2BEfEAm)
+
+# Статистика
+[![Shandeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandeika&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
