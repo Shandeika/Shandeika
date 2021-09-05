@@ -8,3 +8,5 @@
 
 # Статистика
 [![Shandeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandeika&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![discord](https://discord.c99.nl/widget/theme-1/335464992079872000.png)](https://discord.com/users/335464992079872000)
