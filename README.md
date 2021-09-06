@@ -7,6 +7,6 @@
 * Discord сервер [Shandy`s server](https://discord.gg/2BEfEAm)
 
 # Статистика
-[![Shandeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandeika&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Shandeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandeika&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![discord](https://discord.c99.nl/widget/theme-1/335464992079872000.png)](https://discord.com/users/335464992079872000)
