@@ -1,12 +1,29 @@
-# Привет!
-Меня зовут Владимир, мне 17 лет. Занимаюсь разработкой ботов для Discord и учусь делать сайты. Если у вас есть очень заманчивое предложение для меня, то приглашаю вас перейти по моим контактам(*они чуть ниже, если вы не заметили*). 
+<h1 align="center">Hi, I'm Shandy</h1>
+<h3 align="center">A student from Russia. I am developing bots and backend for websites. In my free time I play and stream on YouTube :)</h3>
 
-# Контакты
-* email <shandy@shandy-dev.ru>
-* VK [@shandeika](https://vk.com/shandeika)
-* Discord сервер [Shandy`s server](https://discord.gg/2BEfEAm)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shandeika&label=Profile%20views&color=0e75b6&style=flat" alt="shandeika" /> </p>
 
-# Статистика
-[![Shandeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shandeika&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on [Simple Bot](https://github.com/Shandy-developer-agency/simple-bot)
 
-[![discord](https://discord.c99.nl/widget/theme-1/335464992079872000.png)](https://discord.com/users/335464992079872000)
+- 🌱 I’m currently learning **C# and .NET Framework**
+
+- 📝 I sometimes write articles on [https://www.shandy-dev.ru](https://www.shandy-dev.ru)
+
+- 💬 Ask me about **Discord API and discord.py**
+
+- 📫 How to reach me **shandy@shandy-dev.ru**
+
+- ⚡ Fun fact **My mom says I'm cool**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shandeika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shandeika" height="30" width="40" /></a>
+<a href="https://instagram.com/shandeika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shandeika" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucxuqhs84ei2hpgutgfqzr_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxuqhs84ei2hpgutgfqzr_w" height="30" width="40" /></a>
+<a href="https://discord.gg/2BEfEAm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2BEfEAm" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shandeika&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="shandeika" /></p>
