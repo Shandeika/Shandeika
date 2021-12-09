@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/shandeika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shandeika" height="30" width="40" /></a>
 <a href="https://instagram.com/shandeika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shandeika" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxuqhs84ei2hpgutgfqzr_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxuqhs84ei2hpgutgfqzr_w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXUqHs84ei2hpgUTGFqZR_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxuqhs84ei2hpgutgfqzr_w" height="30" width="40" /></a>
 <a href="https://discord.gg/2BEfEAm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2BEfEAm" height="30" width="40" /></a>
 </p>
 
