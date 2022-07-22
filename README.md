@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandeika&label=Profile%20views&color=0e75b6&style=flat" alt="shandeika" /> </p>
 
-- 🔭 I’m currently working on [Simple Bot](https://github.com/Shandy-developer-agency/simple-bot)
+- 🔭 I’m currently working on [Simple Bot](https://github.com/Shandeika/simple-bot)
 
 - 🌱 I’m currently learning **C# and .NET Framework**
 
