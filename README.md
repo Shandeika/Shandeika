@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Simple Bot](https://github.com/Shandeika/simple-bot)
 
-- 🌱 I’m currently learning **C# and .NET Framework**
+- 🌱 I’m currently learning **ORM and Telegram API**
 
 - 📝 I sometimes write articles on [https://www.shandy-dev.ru](https://www.shandy-dev.ru)
 
