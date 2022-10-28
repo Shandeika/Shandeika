@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shandeika&label=Profile%20views&color=0e75b6&style=flat" alt="shandeika" /> </p>
 
-- 🔭 I’m currently working on [Simple Bot](https://github.com/Shandeika/simple-bot)
+- 🔭 I’m currently working on [Simple Bot](https://github.com/Shandeika/simple-bot) and **Try Gaming Bot**
 
 - 🌱 I’m currently learning **ORM and Telegram API**
 
-- 📝 I sometimes write articles on [https://www.fn-team.ru](https://www.fn-team.ru)
+- 📝 I sometimes write articles on [https://blog.shandy-dev.ru](https://blog.shandy-dev.ru)
 
 - 💬 Ask me about **Discord API and discord.py**
 
-- 📫 How to reach me **shandy@shandy-dev.ru**
+- 📫 How to reach me **shandy@shandy-dev.ru** or [contact form on site](https://blog.shandy-dev.ru/feedback/)
 
 - ⚡ Fun fact **My mom says I'm cool**
 
