@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ORM and Telegram API**
 
-- 📝 I sometimes write articles on [https://blog.shandy-dev.ru](https://blog.shandy.dev)
+- 📝 I sometimes write articles on [https://blog.shandy.dev](https://blog.shandy.dev)
 
 - 💬 Ask me about **Discord API and discord.py**
 
